@@ -1,2 +1,3 @@
-# firts-repo-15-2023
-my first repo in IP-15 group in 2023
+# firts repo
+
+my first repo in the IP-15 group in 2023
